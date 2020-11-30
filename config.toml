@@ -1,4 +1,4 @@
-baseurl = "https://salicorne/github.io/"
+baseurl = "https://salicorne.github.io/"
 languageCode = "fr-fr"
 title = "Salicorne.dev"
 theme = "hugo-cards"
