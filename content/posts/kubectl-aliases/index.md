@@ -23,7 +23,7 @@ alias ked='kubectl edit'
 alias kdesc='kubectl describe'
 alias kdel='kubectl delete'
 
-# Commandes de supervision, si xxx est installé sur le cluster
+# Commandes de supervision, si le metrics-server est installé sur le cluster
 alias ktop='kubectl top'
 alias ktopp='kubectl top pods --all-namespaces'
 
